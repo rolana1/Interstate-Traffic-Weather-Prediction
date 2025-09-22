@@ -1,19 +1,19 @@
 # Interstate-Traffic-Weather-Prediction
 This repository contains a Jupyter Notebook and a PDF report exploring traffic and weather patterns from the **Metro Interstate Traffic Volume** dataset. It demonstrates data preprocessing, discretization/normalization, and Bayesian Hidden Markov Model (HMM) inference using [Pyro](https://pyro.ai/) and PyTorch.
 
-## 📂 Project Structure
-project/
-│
-├── notebooks/
-│ └── traffic_hmm.ipynb # Main Jupyter Notebook
-│
-├── report/
-│ └── traffic_hmm_report.pdf # PDF report summarizing findings
-│
-├── data/
-│ └── Metro_Interstate_Traffic_Volume.csv # Raw dataset (not included here)
-│
-└── requirements.txt
+## 📂 Project Structure  
+project/  
+│  
+├── notebooks/  
+│ └── traffic_hmm.ipynb # Main Jupyter Notebook  
+│  
+├── report/  
+│ └── traffic_hmm_report.pdf # PDF report summarizing findings  
+│  
+├── data/  
+│ └── Metro_Interstate_Traffic_Volume.csv # Raw dataset (not included here)  
+│   
+└── requirements.txt  
 
 
 ## ✨ Features
@@ -29,14 +29,14 @@ project/
 ## 📝 Requirements
 
 Install Python 3.9+ and then install dependencies:
-pip install -r requirements.txt
+pip install -r requirements.txt  
 
 🚀 Usage
 
 Clone the repo:
 
 git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
+cd YOUR-REPO  
 
 
 Install requirements:
@@ -77,9 +77,9 @@ Python
 
 Jupyter Notebook
 
-< Pandas, NumPy, Matplotlib, Scikit-learn >
+Pandas, NumPy, Matplotlib, Scikit-learn
 
 
-🙌 Acknowledgments
-< Metro Interstate Traffic Volume dataset >
-< UCI CS179 Intro to Graphical Models Course >
+🙌 Acknowledgments  
+Metro Interstate Traffic Volume dataset  
+UCI CS179 Intro to Graphical Models Course
